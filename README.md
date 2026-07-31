@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Selam
 
-<!--
-**f96k9/f96k9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer olarak kurumsal yazılım projeleri üzerinde çalışıyorum.
 
-Here are some ideas to get you started:
+## 🚀 Uzmanlık Alanlarım
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C#
+- ASP.NET Core
+- Node.js
+- REST API
+- SQL Server
+- PostgreSQL
+- ERP Entegrasyonları
+- Android Backend
+- Git
+
+## 💼 Çalışma Alanlarım
+
+- ERP sistemleri arasında veri entegrasyonu
+- Kurumsal backend uygulamaları
+- API geliştirme
+- Veritabanı optimizasyonu
+- Android uygulamaları için backend servisleri
+
+## 📫 Bana Ulaşın
+
+- LinkedIn: https://www.linkedin.com/in/fatih-karahan-6885803b8/
